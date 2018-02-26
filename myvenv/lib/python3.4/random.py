@@ -1,1 +1,1 @@
-/usr/lib/python3.4/random.py
+C:/usr/lib/python3.4/random.py

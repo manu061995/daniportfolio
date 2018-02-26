@@ -1,1 +1,1 @@
-/usr/lib/python3.4/stat.py
+C:/usr/lib/python3.4/stat.py
